@@ -1,10 +1,12 @@
 IA Generativa: Extração de Dados Jurídicos sob a ótica da LGPD
 
-📌 Contexto e Objetivos
+📌 Contexto e Objetivos:
+
 Este projeto foi desenvolvido como parte do desafio da DIO, financiado pela CI&T, com o objetivo de demonstrar como o NotebookLM pode ser utilizado para transformar documentos jurídicos densos e não estruturados em dados organizados, além de explorar o uso da Inteligência Artificial Generativa na extração de dados jurídicos, analisando os impactos e limitações impostos pela Lei Geral de Proteção de Dados (LGPD). O propósito é demonstrar como a IA pode apoiar profissionais do Direito e empresas na análise de processos judiciais, sem comprometer a privacidade e a conformidade legal. 
 Desse modo, a proposta vai além da automação: busca apontar como a IA pode ser utilizada de forma ética, segura e juridicamente responsável, evitando violações de privacidade e exposição indevida de dados pessoais.
 
-📚 Curadoria de Fontes 
+📚 Curadoria de Fontes
+
 A curadoria de fontes foi realizada para garantir diversidade e confiabilidade:
 •	Estudo preliminar sobre Anonimização e Pseudonimização para a proteção de dados pessoais realizado pela ANPD – Autoridade Nacional de Proteção de Dados.
 •	Inteligência Artificial no Poder Judiciário Brasileiro, estudo institucional publicado pelo CNJ – Conselho Nacional de Justiça.
@@ -13,6 +15,7 @@ A curadoria de fontes foi realizada para garantir diversidade e confiabilidade:
 •	Jurisprudência: Acórdão da 32ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo, referente à Apelação Cível nº 1024016-52.2020.8.26.0405, da Comarca de Osasco.
 
 🧩 NotebookLM: Testes de Prompts e "Cicatrizes"
+
 Durante o desenvolvimento, foram elaborados e testados diferentes prompts para avaliar a capacidade da IA em gerar insights relevantes:
 
 	"Atue como uma IA especialista em Proteção de Dados e Jurimetria. Analise os documentos da ANPD e da União Europeia para definir critérios de boas práticas de anonimização de dados em processos judiciais usando IA generativa.”
@@ -78,6 +81,7 @@ Utilidade do Dado	Alta (o dado geralmente permanece íntegro). /	Variável; depe
 Governança	Baseada em processos administrativos simples. /	Exige curadoria humana, gestão de riscos iterativa (RRA/RRM) e validação ética.
 
 📖 Miniguia de Estudos
+
 O miniguia contém os principais aprendizados:
 •	Diferença entre IA generativa e métodos tradicionais de análise.
 •	Principais riscos de privacidade e como mitigá-los.
@@ -85,17 +89,20 @@ O miniguia contém os principais aprendizados:
 •	Exemplo prático de aplicação em tribunais.
 
 📑 Glossário
+
 •	Anonimização: Técnica que remove a possibilidade de identificar o titular dos dados.
 •	Pseudonimização: Substituição de identificadores diretos por pseudônimos.
 •	Inferência Algorítmica: Capacidade da IA de deduzir informações a partir de padrões.
 •	Compliance LGPD: Conjunto de práticas para garantir conformidade com a lei.
 
-🚀 Conclusão
+🚀 Conclusão]
+
 Este projeto demonstra como a IA generativa pode ser aplicada de forma inovadora e responsável na área jurídica, conciliando eficiência na extração de dados com respeito à privacidade e às normas da LGPD. O repositório serve como referência prática e teórica para profissionais que desejam integrar tecnologia e Direito de maneira ética e eficaz.
 Cada prompt foi refinado para melhorar a precisão das respostas e documentado no caderno temático. O benefício central da IA no Judiciário é a celeridade e a racionalização das etapas burocráticas. No entanto, o risco jurídico é agravado pela capacidade da IA de "unir as pontas" de dados aparentemente anonimizados, o que exige que o Judiciário adote uma gestão de risco contínua, pois a anonimização não é um ato único, mas um processo que pode ser comprometido pela evolução tecnológica futura.
 Portanto, a verdadeira inovação não está apenas em automatizar processos, mas em fazê-lo com responsabilidade, transparência e respeito à privacidade.
 
 📂 Estrutura do Repositório
+
 •	README.md → Contexto, objetivos e documentação.
 •	sources/ → Fontes utilizadas.
 •	prompts/ → Testes de prompts documentados.
@@ -104,6 +111,7 @@ Portanto, a verdadeira inovação não está apenas em automatizar processos, ma
 •	Conclusão/ → Síntese dos resultados e reflexões finais.
 
 👩‍⚖️ Autora
+
 Desenvolvido por: Karine de Paula Paiva
 Advogada em transição para Análise e Engenharia de Dados | Estudante da Hashtag, Senac e DIO.
 
