@@ -77,8 +77,6 @@ Anonimização	Supressão simples (ex: remover nomes), fácil de reverter./ Téc
 Utilidade do Dado	Alta (o dado geralmente permanece íntegro). /	Variável; depende do equilíbrio no "ponto ótimo" entre utilidade e risco.
 Governança	Baseada em processos administrativos simples. /	Exige curadoria humana, gestão de riscos iterativa (RRA/RRM) e validação ética.
 
-Conclusão: Cada prompt foi refinado para melhorar a precisão das respostas e documentado no caderno temático. O benefício central da IA no Judiciário é a celeridade e a racionalização das etapas burocráticas. No entanto, o risco jurídico é agravado pela capacidade da IA de "unir as pontas" de dados aparentemente anonimizados, o que exige que o Judiciário adote uma gestão de risco contínua, pois a anonimização não é um ato único, mas um processo que pode ser comprometido pela evolução tecnológica futura.
-
 📖 Miniguia de Estudos
 O miniguia contém os principais aprendizados:
 •	Diferença entre IA generativa e métodos tradicionais de análise.
@@ -94,9 +92,9 @@ O miniguia contém os principais aprendizados:
 
 🚀 Conclusão
 Este projeto demonstra como a IA generativa pode ser aplicada de forma inovadora e responsável na área jurídica, conciliando eficiência na extração de dados com respeito à privacidade e às normas da LGPD. O repositório serve como referência prática e teórica para profissionais que desejam integrar tecnologia e Direito de maneira ética e eficaz.
+Cada prompt foi refinado para melhorar a precisão das respostas e documentado no caderno temático. O benefício central da IA no Judiciário é a celeridade e a racionalização das etapas burocráticas. No entanto, o risco jurídico é agravado pela capacidade da IA de "unir as pontas" de dados aparentemente anonimizados, o que exige que o Judiciário adote uma gestão de risco contínua, pois a anonimização não é um ato único, mas um processo que pode ser comprometido pela evolução tecnológica futura.
 Portanto, a verdadeira inovação não está apenas em automatizar processos, mas em fazê-lo com responsabilidade, transparência e respeito à privacidade.
 
-________________________________________
 📂 Estrutura do Repositório
 •	README.md → Contexto, objetivos e documentação.
 •	sources/ → Fontes utilizadas.
