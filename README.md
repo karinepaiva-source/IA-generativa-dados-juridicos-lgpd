@@ -74,10 +74,15 @@ Cicatriz (Lição): A tabela markdown ficou extensa, contrário ao que foi solic
 	“Compare os benefícios e riscos da IA generativa em relação a métodos tradicionais de análise de dados jurídicos.”
 Resultado Obtido (resumido): Resposta muito elaborada e detalhada com base nas diretrizes do CNJ, da ANPD e da União Europeia, fontes usadas no caderno temático, tendo inclusive fornecido uma síntese comparativa:
 Síntese Comparativa 
+
 Critério	Métodos Tradicionais (Manuais/Estáticos)	/ IA Generativa e Machine Learning
+
 Processamento	Lento, limitado a regras fixas e esforço humano. /	Escala massiva, aprendizado contínuo e automação de fluxos.
+
 Anonimização	Supressão simples (ex: remover nomes), fácil de reverter./ Técnicas robustas (Privacidade Diferencial, K-anonimato), mas com risco de inferência.
+
 Utilidade do Dado	Alta (o dado geralmente permanece íntegro). /	Variável; depende do equilíbrio no "ponto ótimo" entre utilidade e risco.
+
 Governança	Baseada em processos administrativos simples. /	Exige curadoria humana, gestão de riscos iterativa (RRA/RRM) e validação ética.
 
 📖 Miniguia de Estudos
