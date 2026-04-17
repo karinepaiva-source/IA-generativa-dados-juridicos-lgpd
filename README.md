@@ -1,6 +1,6 @@
 IA Generativa: Extração de Dados Jurídicos sob a ótica da LGPD
 
-📌 Contexto e Objetivos:
+📌 Contexto e Objetivos
 
 Este projeto foi desenvolvido como parte do desafio da DIO, financiado pela CI&T, com o objetivo de demonstrar como o NotebookLM pode ser utilizado para transformar documentos jurídicos densos e não estruturados em dados organizados, além de explorar o uso da Inteligência Artificial Generativa na extração de dados jurídicos, analisando os impactos e limitações impostos pela Lei Geral de Proteção de Dados (LGPD). O propósito é demonstrar como a IA pode apoiar profissionais do Direito e empresas na análise de processos judiciais, sem comprometer a privacidade e a conformidade legal. 
 Desse modo, a proposta vai além da automação: busca apontar como a IA pode ser utilizada de forma ética, segura e juridicamente responsável, evitando violações de privacidade e exposição indevida de dados pessoais.
@@ -73,7 +73,6 @@ Cicatriz (Lição): A tabela markdown ficou extensa, contrário ao que foi solic
 
 	“Compare os benefícios e riscos da IA generativa em relação a métodos tradicionais de análise de dados jurídicos.”
 Resultado Obtido (resumido): Resposta muito elaborada e detalhada com base nas diretrizes do CNJ, da ANPD e da União Europeia, fontes usadas no caderno temático, tendo inclusive fornecido uma síntese comparativa:
-Síntese Comparativa 
 
 Critério	Métodos Tradicionais (Manuais/Estáticos)	/ IA Generativa e Machine Learning
 
@@ -100,7 +99,7 @@ O miniguia contém os principais aprendizados:
 •	Inferência Algorítmica: Capacidade da IA de deduzir informações a partir de padrões.
 •	Compliance LGPD: Conjunto de práticas para garantir conformidade com a lei.
 
-🚀 Conclusão]
+🚀 Conclusão
 
 Este projeto demonstra como a IA generativa pode ser aplicada de forma inovadora e responsável na área jurídica, conciliando eficiência na extração de dados com respeito à privacidade e às normas da LGPD. O repositório serve como referência prática e teórica para profissionais que desejam integrar tecnologia e Direito de maneira ética e eficaz.
 Cada prompt foi refinado para melhorar a precisão das respostas e documentado no caderno temático. O benefício central da IA no Judiciário é a celeridade e a racionalização das etapas burocráticas. No entanto, o risco jurídico é agravado pela capacidade da IA de "unir as pontas" de dados aparentemente anonimizados, o que exige que o Judiciário adote uma gestão de risco contínua, pois a anonimização não é um ato único, mas um processo que pode ser comprometido pela evolução tecnológica futura.
